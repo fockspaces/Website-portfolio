@@ -46,7 +46,7 @@ document.addEventListener('keydown', function (e) {
 message.classList.add('cookie-message');
 message.textContent = 'We use cookie for improved.';
 message.innerHTML =
-  '訂閱我們以獲取最新動態.<button class="btn btn--close-cookie">好!</button>';
+  '此頁面僅用來展示作品.<button class="btn btn--close-cookie">了解</button>';
 // show element
 header.append(message);
 // delete element

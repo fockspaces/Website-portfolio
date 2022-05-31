@@ -204,10 +204,11 @@ h4 {
 }
 
 .header__img {
-  width: 100%;
+  width: 80%;
   grid-column: 2 / 3;
   grid-row: 1 / span 4;
-  transform: translateY(-6rem);
+  transform: translateY(0rem);
+  transform: translateX(4rem); 
 }
 
 .highlight {
