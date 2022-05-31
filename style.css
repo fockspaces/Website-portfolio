@@ -120,7 +120,7 @@ img {
   align-items: center;
   height: 9rem;
   width: 100%;
-  padding: 0 6rem;
+  padding: 0 0rem;
   z-index: 100;
 }
 
@@ -142,7 +142,7 @@ img {
 }
 
 .nav__item {
-  margin-left: 4rem;
+  margin-left: 15rem;
 }
 
 .nav__link:link,
